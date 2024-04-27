@@ -1,4 +1,4 @@
-/* I voluntarily left in comments the elements taken from Lesson 24. 
+/* I voluntarily left in comments the elements taken from Lesson 24... to tell where they come from. 
    Thank you to Mr. Chaikin for these very useful examples. */
 
 
@@ -11,7 +11,7 @@
 
 body {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-size: 16px;
+    font-size: 18px;
     color: black;
     width: 90%;
     margin-left: auto;
@@ -31,7 +31,7 @@ body {
 
 
 .menu_wrapper {
-    border: 2px solid black;
+    border: 1px solid black;
     margin: 50px 10px 10px 10px;
     margin: 10px;
     background-color: #bbbbbb;
@@ -40,8 +40,8 @@ body {
 
 
 .menu_title {
-    border-left: 2px solid black;
-    border-bottom: 2px solid black;
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
     position: absolute;
     right: 0;
     width: 120px;
@@ -57,18 +57,35 @@ body {
 
 
 .mt_chicken {
-    background-color: #D5989C;
+    background-color: #D6294F;
+    color: white;
 }
 
 
 .mt_beef {
-    background-color: #C14548;
+    background-color: #3C81F8;
     color: white;
 }
 
 
 .mt_sushi {
-    background-color: #E6D190;
+    background-color: #7462F0;
+    color: white;
+}
+
+
+.mw_chicken {
+    background-color: #29D6B0;
+}
+
+
+.mw_beef {
+    background-color: #F8B33C;
+}
+
+
+.mw_sushi {
+    background-color: #DEF062;
 }
 
 
