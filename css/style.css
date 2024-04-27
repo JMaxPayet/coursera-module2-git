@@ -1,3 +1,7 @@
+/* I voluntarily left in comments the elements taken from Lesson 24. 
+   Thank you to Mr. Chaikin for these very useful examples. */
+
+
 * {
     box-sizing: border-box;
     margin: 0;
@@ -31,7 +35,6 @@ body {
     margin: 50px 10px 10px 10px;
     margin: 10px;
     background-color: #bbbbbb;
-    /* width: 100%; */
     position: relative;
 }
 
